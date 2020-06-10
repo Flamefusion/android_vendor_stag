@@ -45,9 +45,6 @@ type Product_variables struct {
 	}
 	Target_camera_needs_client_info struct {
 		Cflags []string
-        }
-	Target_ignores_ftp_pptp_conntrack_failure struct {
-		Cppflags []string
 	}
 	Target_ignores_ftp_pptp_conntrack_failure struct {
 		Cppflags []string
